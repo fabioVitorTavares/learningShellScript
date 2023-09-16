@@ -23,3 +23,7 @@ funcao(){
 
 # Chamando função
 funcao
+
+pwd
+
+cat ./README.md
