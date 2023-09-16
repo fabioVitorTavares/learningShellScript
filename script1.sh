@@ -24,6 +24,8 @@ funcao(){
 # Chamando função
 funcao
 
+# Imprime path atual
 pwd
 
+# Lê arquivo
 cat ./README.md
